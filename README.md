@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ashik-e-rabbani
-- 👀 I’m interested in open source contribution
-- 🌱 I’m currently learning Django and kotlin
+- 👀 I’m interested in Automation, Development & open source contribution
+<!-- - 🌱 I’m currently learning  -->
 - 💞️ I’m looking to collaborate on Web and android application
-- 📫 How to reach me ...
+- 📫 Mail to reach me ...
 
 <!---
 ashik-e-rabbani/ashik-e-rabbani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
