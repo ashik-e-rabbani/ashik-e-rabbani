@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ashik-e-rabbani
 - 👀 I’m interested in Automation, Development & open source contribution
-<!-- - 🌱 I’m currently learning  -->
-- 💞️ I’m looking to collaborate on Web and android application
+-  💞️ I’m looking to collaborate on Web and android application
 - 📫 Mail to reach me ...
+<!-- - 🌱 I’m currently learning  -->
+
 
 <!---
 ashik-e-rabbani/ashik-e-rabbani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
