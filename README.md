@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashik-e-rabbani
 - 👀 I’m interested in Automation, Development & open source contribution
--  💞️ I’m looking to collaborate on Web and android application
+- 💞️ I’m looking to collaborate on Web and android application
 - 📫 Mail to reach me ...
 <!-- - 🌱 I’m currently learning  -->
 
