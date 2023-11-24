@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ashik</h1>
-<h3 align="center">A passionate QA and developer from Bangladesh</h3>
+<h3 align="center">Hi 👋, I'm Ashik</h3>
+<h5 align="center">A passionate QA and developer from Bangladesh</h5>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashik-e-rabbani&label=Profile%20views&color=0e75b6&style=flat" alt="ashik-e-rabbani" /> </p>
 
