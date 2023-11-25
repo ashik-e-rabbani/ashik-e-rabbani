@@ -5,7 +5,7 @@
 
 
 ### About Me
-- 🔭 I’m currently building an [Automation framework](https://github.com/ashik-e-rabbani/Web-automation-with-selenium)
+- 🔭 I’m currently working on an [Automation framework](https://github.com/ashik-e-rabbani/Web-automation-with-selenium)
 - 💬 Ask me about **Selenium, Appium, Android & Django**
 - 👯 I’m looking to collaborate on **open source project**
 - 📫 Reach me at [ashik.ashik.raabni@gmail.com](mailto:ashik.ashik.raabni@gmail.com)
