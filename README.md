@@ -4,14 +4,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashik-e-rabbani&label=Profile%20views&color=0e75b6&style=flat" alt="ashik-e-rabbani" /> </p>
 
 
-### About Me
+### ☰ About Me
 - 🔭 I’m currently working on an [Automation framework](https://github.com/ashik-e-rabbani/Web-automation-with-selenium)
 - 💬 Ask me about **Selenium, Appium, Android & Django**
 - 👯 I’m looking to collaborate on **open source project**
 - 📫 Reach me at [ashik.ashik.raabni@gmail.com](mailto:ashik.ashik.raabni@gmail.com)
 
-<h4 align="left">📚 My Stack</h4>
-
+### 📚 My Stack
 
 <img src="https://img.shields.io/badge/Languages-424242?style=for-the-badge&logoColor=FFFFFF">[![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)[![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)[![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
