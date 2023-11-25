@@ -1,54 +1,41 @@
-<h3 align="center">Hi 👋, I'm Ashik</h3>
+<h3 align="center">Hello 👋, I'm Ashik</h3>
 <h5 align="center">A passionate QA and developer from Bangladesh</h5>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashik-e-rabbani&label=Profile%20views&color=0e75b6&style=flat" alt="ashik-e-rabbani" /> </p>
 
-
-
-- 🔭 I’m currently working on [Automation framework development](https://github.com/ashik-e-rabbani/Web-automation-with-selenium)
-
-- 👯 I’m looking to collaborate on **open source project**
-
 </p>
 
-<table>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashik-e-rabbani&show_icons=true&locale=en" alt="GitHub Stats" width="350" height="150" />
-     </td>
-    <td>
-       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashik-e-rabbani&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="300" height="150" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashik-e-rabbani" alt="GitHub Streak" width="350" height="150" />
-    </td>
-  </tr>
-</table>
-
-## Development
-[default_repo]: https://github-readme-stats.vercel.app/api/pin/?username=ashik-e-rabbani&repo=food-ordering-system&cache_seconds=86400&theme=default
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ashik-e-rabbani&repo=food-ordering-system&show_owner=false&show_icons=true&theme=default)](https://github.com/ashik-e-rabbani/food-ordering-system)
-[![Loan Prediction Using ML](https://github-readme-stats.vercel.app/api/pin/?username=ashik-e-rabbani&repo=Loan-Prediction-Using-Machine-Learning&show_owner=false&show_icons=true&theme=default)](https://github.com/ashik-e-rabbani/Loan-Prediction-Using-Machine-Learning)
-[![Spring Boot Rest Api JPA](https://github-readme-stats.vercel.app/api/pin/?username=ashik-e-rabbani&repo=Spring-Boot-Rest-Api-JPA&show_owner=false&show_icons=true&theme=default)](https://github.com/ashik-e-rabbani/Spring-Boot-Rest-Api-JPA)
-## QA and Automation
-[![App Automation POM Java](https://github-readme-stats.vercel.app/api/pin/?username=ashik-e-rabbani&repo=App-automation-POM-java&show_owner=true&show_icons=true&theme=radical)](https://github.com/ashik-e-rabbani/App-automation-POM-java)
-[![REST API Testing using RESTAssured](https://github-readme-stats.vercel.app/api/pin/?username=ashik-e-rabbani&repo=REST-API-testing-using-RESTAssured&show_owner=true&show_icons=true&theme=radical)](https://github.com/ashik-e-rabbani/REST-API-testing-using-RESTAssured)
-[![Web Automation with Selenium](https://github-readme-stats.vercel.app/api/pin/?username=ashik-e-rabbani&repo=Web-automation-with-selenium&show_owner=true&show_icons=true&theme=radical)](https://github.com/ashik-e-rabbani/Web-automation-with-selenium)
-
-...
-# 💻 Projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashik-e-rabbani&show_icons=true&locale=en" alt="ashik-e-rabbani" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashik-e-rabbani" alt="ashik-e-rabbani" />
+</p>
 
 
+- 🔭 I’m currently building my own [Automation framework](https://github.com/ashik-e-rabbani/Web-automation-with-selenium)
 
-| Food Ordering System                            | Loan Prediction Using ML                       | Spring Boot Rest Api JPA                        |
-| ------------------------------------------------ | --------------------------------------------- | ----------------------------------------------- |
-| [![GitHub stars](https://img.shields.io/github/stars/ashik-e-rabbani/food-ordering-system.svg?style=flat&logo=github&color=yellow)](https://github.com/ashik-e-rabbani/food-ordering-system/stargazers) [![GitHub forks](https://img.shields.io/github/forks/ashik-e-rabbani/food-ordering-system.svg?style=flat&logo=github&color=blue)](https://github.com/ashik-e-rabbani/food-ordering-system/network) | [![GitHub stars](https://img.shields.io/github/stars/ashik-e-rabbani/Loan-Prediction-Using-Machine-Learning.svg?style=flat&logo=github&color=yellow)](https://github.com/ashik-e-rabbani/Loan-Prediction-Using-Machine-Learning/stargazers) [![GitHub forks](https://img.shields.io/github/forks/ashik-e-rabbani/Loan-Prediction-Using-Machine-Learning.svg?style=flat&logo=github&color=blue)](https://github.com/ashik-e-rabbani/Loan-Prediction-Using-Machine-Learning/network) | [![GitHub stars](https://img.shields.io/github/stars/ashik-e-rabbani/Spring-Boot-Rest-Api-JPA.svg?style=flat&logo=github&color=yellow)](https://github.com/ashik-e-rabbani/Spring-Boot-Rest-Api-JPA/stargazers) [![GitHub forks](https://img.shields.io/github/forks/ashik-e-rabbani/Spring-Boot-Rest-Api-JPA.svg?style=flat&logo=github&color=blue)](https://github.com/ashik-e-rabbani/Spring-Boot-Rest-Api-JPA/network) |
+- 👯 I’m looking to collaborate on **open source project**
+- 📫 Reach me at [ashik.ashik.raabni@gmail.com](mailto:ashik.ashik.raabni@gmail.com)
+
+<h3 align="left">Competences</h3>
 
 
-
-| App Automation POM Java                          | REST API Testing using RESTAssured              | Web Automation with Selenium                   |
-| ------------------------------------------------ | ---------------------------------------------- | ----------------------------------------------- |
-| [![GitHub stars](https://img.shields.io/github/stars/ashik-e-rabbani/App-automation-POM-java.svg?style=flat&logo=github&color=yellow)](https://github.com/ashik-e-rabbani/App-automation-POM-java/stargazers) [![GitHub forks](https://img.shields.io/github/forks/ashik-e-rabbani/App-automation-POM-java.svg?style=flat&logo=github&color=blue)](https://github.com/ashik-e-rabbani/App-automation-POM-java/network) | [![GitHub stars](https://img.shields.io/github/stars/ashik-e-rabbani/REST-API-testing-using-RESTAssured.svg?style=flat&logo=github&color=yellow)](https://github.com/ashik-e-rabbani/REST-API-testing-using-RESTAssured/stargazers) [![GitHub forks](https://img.shields.io/github/forks/ashik-e-rabbani/REST-API-testing-using-RESTAssured.svg?style=flat&logo=github&color=blue)](https://github.com/ashik-e-rabbani/REST-API-testing-using-RESTAssured/network) | [![GitHub stars](https://img.shields.io/github/stars/ashik-e-rabbani/Web-automation-with-selenium.svg?style=flat&logo=github&color=yellow)](https://github.com/ashik-e-rabbani/Web-automation-with-selenium/stargazers) [![GitHub forks](https://img.shields.io/github/forks/ashik-e-rabbani/Web-automation-with-selenium.svg?style=flat&logo=github&color=blue)](https://github.com/ashik-e-rabbani/Web-automation-with-selenium/network) |
-
+[![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+[![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
+[![AJAX Badge](https://img.shields.io/badge/AJAX-0769AD?style=for-the-badge&logo=ajax&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX) [![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Spring Boot Badge](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
+[![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/) [![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![TestNG Badge](https://img.shields.io/badge/TestNG-007ACC?style=for-the-badge&logo=testng&logoColor=white)](https://testng.org/)
+[![Allure Badge](https://img.shields.io/badge/Allure_Report-FF4500?style=for-the-badge&logo=allure&logoColor=white)](https://docs.qameta.io/allure/) [![JMeter Badge](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)](https://jmeter.apache.org/) [![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Firebase RTDB Badge](https://img.shields.io/badge/Firebase_RTD-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/docs/database) 
+[![Apache Tomcat Badge](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)](http://tomcat.apache.org/) [![Maven Badge](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](https://maven.apache.org/) [![Gradle Badge](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/) [![GitLab Badge](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=black)](https://about.gitlab.com/)
+[![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/) [![JIRA Badge](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![Scrum Badge](https://img.shields.io/badge/Scrum-5849BE?style=for-the-badge&logo=scrum&logoColor=white)](https://www.scrum.org/) [![Agile Badge](https://img.shields.io/badge/Agile-009B8D?style=for-the-badge&logo=agile&logoColor=white)](https://www.agilealliance.org/)
 
 
