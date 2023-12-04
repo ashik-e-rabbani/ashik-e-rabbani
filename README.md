@@ -1,5 +1,5 @@
 <h3 align="center">Hello 👋, I'm Ashik</h3>
-<h5 align="center">A Full-Stack SQA Engineer with a passion for ensuring the quality and reliability of software.</h5>
+<h5 align="center">SQA Engineer with a passion for ensuring the quality and reliability of software.</h5>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashik-e-rabbani&label=Profile%20views&color=0e75b6&style=flat" alt="ashik-e-rabbani" /> </p>
 
