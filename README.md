@@ -10,6 +10,18 @@
 - 👯 I’m looking to collaborate on **open source project**
 - 📫 Reach me at [ashik.ashik.raabni@gmail.com](mailto:ashik.ashik.raabni@gmail.com)
 
+### 👾 Automation
+[![Automation Project](https://img.shields.io/badge/App_Automation_with_(POM)_|_Java-FF5733?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ashik-e-rabbani/App-automation-POM-java)
+
+[![Automation with Python](https://img.shields.io/badge/WEB_/_APP_/_API_Automation_|_Python-336791?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ashik-e-rabbani/AutomationWithPython)
+
+[![Web Automation with Selenium](https://img.shields.io/badge/Web_Automation_with_Selenium_|_Java-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://github.com/ashik-e-rabbani/Web-automation-with-selenium)
+
+[![REST API Testing using RESTAssured](https://img.shields.io/badge/API_Automation_using_RESTAssured_|_java-3498DB?style=for-the-badge&logo=java&logoColor=white)](https://github.com/ashik-e-rabbani/REST-API-testing-using-RESTAssured)
+
+[![Web Automation With Playwright](https://img.shields.io/badge/Web_Automation_With_Playwright_|_JavaScript-2D2D2D?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/ashik-e-rabbani/WebAutomationWithPlaywright)
+
+
 ### 📚 My Stack
 
 <img src="https://img.shields.io/badge/Languages-424242?style=for-the-badge&logoColor=FFFFFF">[![C Badge](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)[![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)[![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -28,7 +40,7 @@
 
 
 <img src="https://img.shields.io/badge/Tools-424242?style=for-the-badge&logoColor=FFFFFF">[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)[![JIRA Badge](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)[![Docker_badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.atlassian.com/software/jira)
- 
+
 
 </p>
 
