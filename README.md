@@ -5,18 +5,32 @@
 
 
 ### ☰ About Me
-- 🔭 I’m currently working on an [Automation framework](https://github.com/ashik-e-rabbani/Web-automation-with-selenium)
-- 💬 Ask me about **Selenium, Appium, Android & Django**
+- 🔭 I’m currently working on a custom [Automation Framework](https://github.com/ashik-e-rabbani/Web-automation-with-selenium)
+- 💬 Ask me about **Selenium | Appium | Android | Django**
 - 👯 I’m looking to collaborate on **open source project**
-- 📫 Reach me at [ashik.ashik.raabni@gmail.com](mailto:ashik.ashik.raabni@gmail.com)
+- 📫 Reach me at [ashik.ashik.rabbni+github@gmail.com](mailto:ashik.ashik.rabbni+github@gmail.com)
 
-### 👾 Automation
-[![Automation Project](https://img.shields.io/badge/App_Automation_with_(POM)_|_Java-FF5733?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ashik-e-rabbani/App-automation-POM-java)
-[![Automation with Python](https://img.shields.io/badge/WEB_/_APP_/_API_Automation_|_Python-336791?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ashik-e-rabbani/AutomationWithPython)
-[![Web Automation with Selenium](https://img.shields.io/badge/Web_Automation_with_Selenium_|_Java-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://github.com/ashik-e-rabbani/Web-automation-with-selenium)
-[![REST API Testing using RESTAssured](https://img.shields.io/badge/API_Automation_using_RESTAssured_|_java-3498DB?style=for-the-badge&logo=java&logoColor=white)](https://github.com/ashik-e-rabbani/REST-API-testing-using-RESTAssured)
-[![Web Automation With Playwright](https://img.shields.io/badge/Web_Automation_With_Playwright_|_JavaScript-2D2D2D?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/ashik-e-rabbani/WebAutomationWithPlaywright)
+### 👾 Automations
+[![Automation Project](https://img.shields.io/badge/Mobile_App_Automation_using_Appium-2D2D2D?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ashik-e-rabbani/App-automation-POM-java)[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Web Automation with Selenium](https://img.shields.io/badge/Web_Automation_with_Selenium-2D2D2D?style=for-the-badge&logo=selenium&logoColor=white)](https://github.com/ashik-e-rabbani/Web-automation-with-selenium)[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
+[![Automation with Python](https://img.shields.io/badge/WEB_/_APP_/_API_Automation-2D2D2D?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ashik-e-rabbani/AutomationWithPython)![Python Badge](https://img.shields.io/badge/Python-3406AB?style=for-the-badge&logo=python&logoColor=white)
+[![REST API Testing using RESTAssured](https://img.shields.io/badge/API_Automation_using_RESTAssured-2D2D2D?style=for-the-badge&logo=pihole&logoColor=white)](https://github.com/ashik-e-rabbani/REST-API-testing-using-RESTAssured)[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+
+[![Web Automation With Playwright](https://img.shields.io/badge/Web_Automation_With_Playwright-2D2D2D?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/ashik-e-rabbani/WebAutomationWithPlaywright)![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+### 💻 Developments
+[![Food Ordering System](https://img.shields.io/badge/Food_Ordering_System-2D2D2D?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ashik-e-rabbani/food-ordering-system)[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Impresario](https://img.shields.io/badge/Impresario-2D2D2D?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ashik-e-rabbani/Impresario)[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+
+[![SQA Holmes](https://img.shields.io/badge/SQA_Holmes-2D2D2D?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ashik-e-rabbani/sqa-holmes)![Django Badge](https://img.shields.io/badge/Django-309AB?style=for-the-badge&logo=django&logoColor=white)
+[![REST Server using Django](https://img.shields.io/badge/REST_Server_Django-2D2D2D?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ashik-e-rabbani/restserver-Django)![Django Badge](https://img.shields.io/badge/Django-309AB?style=for-the-badge&logo=django&logoColor=white)
+
+[![Consumer Behaviour Analyser](https://img.shields.io/badge/Consumer_Behaviour_Analyser-2D2D2D?style=for-the-badge&logo=django&logoColor=white)](https://github.com/ashik-e-rabbani/Consumer-Behaviour-Analyser)![Django Badge](https://img.shields.io/badge/Django-309AB?style=for-the-badge&logo=django&logoColor=white)
+[![Spring Boot Rest API JPA](https://img.shields.io/badge/Rest_API_JPA-2D2D2D?style=for-the-badge&logo=java&logoColor=white)](https://github.com/ashik-e-rabbani/Spring-Boot-Rest-Api-JPA)![Django Badge](https://img.shields.io/badge/Spring_boot-3AB?style=for-the-badge&logo=spring&logoColor=white)
+
+[![Timer App React.js](https://img.shields.io/badge/Timer_App-2D2D2D?style=for-the-badge&logo=&logoColor=white)](https://github.com/ashik-e-rabbani/timerApp-React.js)![React Badge](https://img.shields.io/badge/React_JS-3494C?style=for-the-badge&logo=react&logoColor=white)
 
 ### 📚 My Stack
 
@@ -33,5 +47,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ashik-e-rabbani&show_icons=true&locale=en" alt="ashik-e-rabbani" width="370" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashik-e-rabbani" alt="ashik-e-rabbani" width="370" height="170"/>
 </p>
-
-
