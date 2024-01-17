@@ -12,13 +12,9 @@
 
 ### 👾 Automation
 [![Automation Project](https://img.shields.io/badge/App_Automation_with_(POM)_|_Java-FF5733?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ashik-e-rabbani/App-automation-POM-java)
-
 [![Automation with Python](https://img.shields.io/badge/WEB_/_APP_/_API_Automation_|_Python-336791?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ashik-e-rabbani/AutomationWithPython)
-
 [![Web Automation with Selenium](https://img.shields.io/badge/Web_Automation_with_Selenium_|_Java-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://github.com/ashik-e-rabbani/Web-automation-with-selenium)
-
 [![REST API Testing using RESTAssured](https://img.shields.io/badge/API_Automation_using_RESTAssured_|_java-3498DB?style=for-the-badge&logo=java&logoColor=white)](https://github.com/ashik-e-rabbani/REST-API-testing-using-RESTAssured)
-
 [![Web Automation With Playwright](https://img.shields.io/badge/Web_Automation_With_Playwright_|_JavaScript-2D2D2D?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/ashik-e-rabbani/WebAutomationWithPlaywright)
 
 
