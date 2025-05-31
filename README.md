@@ -5,7 +5,7 @@
 
 
 ### ☰ About Me
-- 🔭 I’m currently working on a custom [Automation Framework](https://github.com/ashik-e-rabbani/Web-automation-with-selenium)
+- 🔭 I’m currently working on a custom Automation Framework combining Cypress + Newman + K6 + GHA
 - 💬 Ask me about **Playwright | Selenium | Appium | Android | Django**
 - 👯 I’m looking to collaborate on **open source project**
 - 📫 Reach me at [ashik.ashik.rabbni+github@gmail.com](mailto:ashik.ashik.rabbni+github@gmail.com)
